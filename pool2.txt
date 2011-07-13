@@ -1,0 +1,1 @@
+http://qycpublic_worker:123456@uswest.btcguild.com:8332
